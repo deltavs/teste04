@@ -1,0 +1,24 @@
+* {
+    background-color: black;
+}
+
+.desc
+ {
+    color: red;
+    font-size: 80px;
+    
+}
+.adc{
+    color: blueviolet;
+    font-size: b;
+}
+
+.pront {
+    color: rgb(140, 0, 255);
+}
+
+#imag{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
